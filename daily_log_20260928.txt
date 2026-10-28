@@ -1,0 +1,47 @@
+[09:23:46] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[09:23:54] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[09:25:04] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[09:25:06] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[09:25:22] [SUCCESS] 📹 Đã mở camera thành công (Viewport 4D Cyber HUD: 440x330)
+[09:25:47] [INFO] Đổi bộ lọc xử lý ảnh: Làm Nét (Mã bộ lọc: 1)
+[09:25:49] [INFO] Đổi bộ lọc xử lý ảnh: Đen Trắng (Mã bộ lọc: 2)
+[09:25:51] [INFO] Đổi bộ lọc xử lý ảnh: Cạnh (Mã bộ lọc: 3)
+[09:25:52] [INFO] Đổi bộ lọc xử lý ảnh: Nâu Cổ (Mã bộ lọc: 4)
+[09:25:53] [INFO] Đổi bộ lọc xử lý ảnh: Làm Mịn (Mã bộ lọc: 5)
+[09:25:54] [INFO] Đổi bộ lọc xử lý ảnh: Không (Mã bộ lọc: 0)
+[09:26:02] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[09:26:17] [SUCCESS] Đã mở file Excel: BangDiemDanh_TongHop.xlsx
+[09:26:36] [SUCCESS] Bắt đầu chế độ NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[09:26:37] [SUCCESS] ⚡ TỰ ĐỘNG ĐIỂM DANH: Vinh (001) [k-NN] (100%) -> Đã tự động lưu Excel & CSV!
+[09:26:52] [SUCCESS] ⚡ TỰ ĐỘNG ĐIỂM DANH: vih (001) [k-NN] (100%) -> Đã tự động lưu Excel & CSV!
+[09:26:59] [INFO] 📹 Đã đóng camera
+[11:16:13] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[11:16:15] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[11:16:40] [SUCCESS] 📹 Đã mở camera thành công (Viewport 4D Cyber HUD: 440x330)
+[11:16:50] [INFO] 📹 Đã đóng camera
+[11:21:51] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[11:22:05] [INFO] Chuyển sang chế độ: CHỤP ẢNH & ĐĂNG KÝ
+[11:22:19] [SUCCESS] 📹 Đã mở camera thành công (Viewport 4D Cyber HUD: 440x330)
+[11:22:23] [SUCCESS] Bắt đầu chế độ CHỤP ẢNH & ĐĂNG KÝ
+[11:22:26] [SUCCESS] ✅ Đã chụp & lưu khuôn mặt [FX: Không]: face_20260928_112226_1.jpg
+[11:22:26] [SUCCESS] Chụp thành công 1 khuôn mặt với bộ lọc Không
+[11:22:30] [INFO] Đang huấn luyện tất cả 7 thuật toán AI cho Quang Vinh-001...
+[11:22:31] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[11:22:31] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[11:22:31] [SUCCESS] ✅ Đã huấn luyện thành công tất cả mô hình AI cho: Quang Vinh-001
+[11:22:33] [INFO] 📹 Đã đóng camera
+[11:22:58] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[11:23:02] [SUCCESS] 📹 Đã mở camera thành công (Viewport 4D Cyber HUD: 440x330)
+[11:23:04] [SUCCESS] Bắt đầu chế độ NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[11:23:05] [SUCCESS] ⚡ TỰ ĐỘNG ĐIỂM DANH: Quang Vinh (001) [k-NN] (100%) -> Đã tự động lưu Excel & CSV!
+[11:23:11] [INFO] 📹 Đã đóng camera
+[11:23:46] [SUCCESS] Đã mở file Excel: DiemDanh_2026-09-28.xlsx
+[11:24:06] [INFO] Chuyển sang chế độ: CHỤP ẢNH & ĐĂNG KÝ
+[11:24:08] [SUCCESS] 📹 Đã mở camera thành công (Viewport 4D Cyber HUD: 440x330)
+[11:24:11] [INFO] Đổi bộ lọc xử lý ảnh: Làm Nét (Mã bộ lọc: 1)
+[11:24:13] [INFO] Đổi bộ lọc xử lý ảnh: Đen Trắng (Mã bộ lọc: 2)
+[11:24:16] [INFO] Đổi bộ lọc xử lý ảnh: Cạnh (Mã bộ lọc: 3)
+[11:24:18] [INFO] Đổi bộ lọc xử lý ảnh: Nâu Cổ (Mã bộ lọc: 4)
+[11:24:20] [INFO] Đổi bộ lọc xử lý ảnh: Làm Mịn (Mã bộ lọc: 5)
+[11:24:21] [INFO] Đổi bộ lọc xử lý ảnh: Không (Mã bộ lọc: 0)
+[11:24:24] [INFO] 📹 Đã đóng camera

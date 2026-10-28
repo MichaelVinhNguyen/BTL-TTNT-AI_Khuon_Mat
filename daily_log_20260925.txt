@@ -1,0 +1,52 @@
+[17:22:23] [WARNING] Lỗi tải trainer.yml (LBPH): module 'cv2.face' has no attribute 'LBPHFaceRecognizer_create'
+[17:22:23] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[17:22:23] [SUCCESS] ✅ Hệ thống sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[17:22:34] [WARNING] Lỗi tải trainer.yml (LBPH): module 'cv2.face' has no attribute 'LBPHFaceRecognizer_create'
+[17:22:34] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[17:22:34] [SUCCESS] ✅ Hệ thống sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[17:22:34] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[17:22:34] [INFO] Đã chuyển thuật toán nhận diện: ⚡ SVM (Support Vector Machine) [Bổ sung 1]
+[17:34:14] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[17:34:14] [SUCCESS] ✅ Hệ thống sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[17:35:49] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[17:35:49] [SUCCESS] ✅ Hệ thống sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[17:36:12] [SUCCESS] 📹 Đã mở camera thành công
+[17:36:34] [SUCCESS] Bắt đầu chế độ CHỤP ẢNH & ĐĂNG KÝ
+[17:36:36] [SUCCESS] ✅ Đã lưu ảnh: face_20260925_173636_1.jpg
+[17:36:37] [SUCCESS] Chụp thành công 1 khuôn mặt
+[17:36:38] [INFO] Đang huấn luyện tất cả 7 thuật toán AI cho vih-001...
+[17:36:41] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[17:36:41] [SUCCESS] ✅ Hệ thống sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[17:36:41] [SUCCESS] ✅ Đã huấn luyện thành công tất cả mô hình AI cho: vih-001
+[17:36:48] [INFO] 📹 Đã đóng camera
+[17:36:49] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[17:36:50] [SUCCESS] 📹 Đã mở camera thành công
+[17:37:00] [SUCCESS] Bắt đầu chế độ NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[17:37:15] [INFO] Dừng chế độ nhận diện
+[17:42:58] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[17:42:58] [SUCCESS] ✅ Hệ thống sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[18:18:26] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[18:18:26] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:16:40] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:16:40] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:16:54] [SUCCESS] 📹 Đã mở camera thành công (Viewport 4D Cyber HUD: 380x285)
+[22:16:59] [INFO] 📹 Đã đóng camera
+[22:26:40] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:26:41] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:26:52] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:26:53] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:26:53] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[22:26:53] [INFO] Chuyển sang chế độ: CHỤP ẢNH & ĐĂNG KÝ
+[22:28:49] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:28:50] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:33:45] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:33:47] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:33:56] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:33:58] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:34:51] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:34:53] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:36:16] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[22:36:18] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[22:36:37] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[22:36:38] [INFO] Chuyển sang chế độ: CHỤP ẢNH & ĐĂNG KÝ
+[22:37:20] [SUCCESS] 📹 Đã mở camera thành công (Viewport 4D Cyber HUD: 380x285)

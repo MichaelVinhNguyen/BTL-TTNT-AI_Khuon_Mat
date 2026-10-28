@@ -1,0 +1,38 @@
+[08:41:39] [INFO] Model đã được tải thành công
+[08:43:16] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH
+[08:43:18] [SUCCESS] Bắt đầu chế độ NHẬN DIỆN khuôn mặt
+[08:45:38] [INFO] Model đã được tải thành công
+[08:46:08] [INFO] Chuyển sang chế độ: ĐĂNG KÝ NGƯỜI DÙNG
+[08:46:09] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH
+[08:46:20] [SUCCESS] Bắt đầu chế độ ĐĂNG KÝ người dùng
+[08:46:24] [SUCCESS] ✅ Đã lưu ảnh: face_20260306_084624_1.jpg
+[08:46:26] [SUCCESS] Chụp thành công 1 khuôn mặt
+[08:46:36] [INFO] Đã xóa dữ liệu tạm thời
+[08:46:40] [SUCCESS] ✅ Đã lưu ảnh: face_20260306_084640_1.jpg
+[08:46:42] [SUCCESS] Chụp thành công 1 khuôn mặt
+[08:46:42] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH
+[08:49:40] [INFO] Model đã được tải thành công
+[08:51:12] [INFO] Model đã được tải thành công
+[08:51:28] [INFO] Chuyển sang chế độ: CHỤP ẢNH & ĐĂNG KÝ
+[08:51:34] [INFO] Đổi bộ lọc: Làm Nét
+[08:51:35] [INFO] Đổi bộ lọc: Không
+[08:51:36] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH
+[08:51:37] [SUCCESS] Bắt đầu chế độ NHẬN DIỆN & ĐIỂM DANH
+[08:51:43] [INFO] Dừng chế độ nhận diện
+[08:53:53] [INFO] Model đã được tải thành công
+[08:54:01] [INFO] Chuyển sang chế độ: CHỤP ẢNH & ĐĂNG KÝ
+[08:54:04] [INFO] Đổi bộ lọc: Làm Nét
+[08:54:05] [INFO] Đổi bộ lọc: Đen Trắng
+[08:54:05] [INFO] Đổi bộ lọc: Làm Nét
+[08:54:06] [INFO] Đổi bộ lọc: Không
+[08:54:11] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH
+[08:54:15] [SUCCESS] Bắt đầu chế độ NHẬN DIỆN & ĐIỂM DANH
+[08:54:19] [INFO] Dừng chế độ nhận diện
+[08:56:12] [INFO] Model đã được tải thành công
+[08:56:53] [SUCCESS] 📹 Đã mở camera thành công
+[08:56:59] [INFO] 📹 Đã đóng camera
+[08:56:59] [SUCCESS] 📹 Đã mở camera thành công
+[08:57:01] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH
+[08:57:02] [SUCCESS] Bắt đầu chế độ NHẬN DIỆN & ĐIỂM DANH
+[08:57:05] [INFO] 📹 Đã đóng camera
+[08:57:09] [SUCCESS] 📹 Đã mở camera thành công

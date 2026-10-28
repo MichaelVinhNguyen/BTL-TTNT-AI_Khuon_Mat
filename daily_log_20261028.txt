@@ -1,0 +1,2 @@
+[09:49:52] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[09:49:54] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]

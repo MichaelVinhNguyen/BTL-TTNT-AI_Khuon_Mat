@@ -1,0 +1,7 @@
+[20:11:30] [SUCCESS] Đã nạp 6 mô hình ML: k-NN, Decision Tree, Naive Bayes, SVM, Random Forest, MLP Neural
+[20:11:32] [SUCCESS] ✅ Hệ thống 4D HUD sẵn sàng! Đang dùng: 🎯 k-NN (k-Nearest Neighbors) [Slide 2b]
+[20:25:18] [INFO] Đổi bộ lọc xử lý ảnh: Làm Nét (Mã bộ lọc: 1)
+[20:25:18] [INFO] Đổi bộ lọc xử lý ảnh: Đen Trắng (Mã bộ lọc: 2)
+[20:25:20] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
+[20:25:23] [INFO] Chuyển sang chế độ: CHỤP ẢNH & ĐĂNG KÝ
+[20:27:43] [INFO] Chuyển sang chế độ: NHẬN DIỆN & ĐIỂM DANH (k-NN)
